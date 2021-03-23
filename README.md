@@ -1,6 +1,6 @@
 👋  Hi, I’m Noman Rauf (NRF),
 - Originally an electrical engineer, I've been working on web development as a side project since 2014
-- Front-end Nanodegree graduate from Udacity
+- Front-end Nanodegree graduate from Udacity -- ([View certificate](https://confirm.udacity.com/ECATQEGD))
 - Although I've worked on the back-end (Ruby on Rails), most of my focus has been on front-end development (heavy focus on JavaScript)
 - I've worked extensively with Bootstrap...
 - ReactJS developer
